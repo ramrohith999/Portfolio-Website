@@ -18,7 +18,7 @@ export const projects = [
     description: 'Mobile-style food delivery mockup inspired by Swiggy, showcasing restaurant browsing, menus, and cart UI in a clean interface.',
     tech: ['React', 'Styled Components', 'Redux', 'Tailwind CSS'],
     image: 'https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80',
-    link: 'https://github.com/ramrohith999/swiggymockapp'
+    link: 'https://github.com/ramrohith999/reactpractice'
   },
   {
     title: 'Weather App',
